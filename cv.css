@@ -112,9 +112,12 @@ ul {
   justify-content: space-between;
 }
 
+#contact span {
+  margin-left:0.5rem;
+}
+
 #contact > a > span {
   text-decoration: underline;
-  margin-left:0.5rem;
 }
 
 #contact > a:link,
@@ -255,6 +258,10 @@ ul {
 #pageHeader > div > a:link,
 #pageHeader > div > a:visited {
   color: inherit;
+}
+
+#ai-prompt {
+  opacity: 0;
 }
 
 /* Hide the background with the drop shadow, and adjust the padding. */
