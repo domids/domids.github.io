@@ -342,14 +342,6 @@ ul {
     max-width: none;
   }
 
-  #awards {
-    break-after: page;
-  }
-
-  #workprojects {
-    break-after: page;
-  }
-
   /* Show the phone number: */
   #contact {
     grid-template-columns: auto auto auto auto; 
