@@ -158,6 +158,7 @@ ul {
 }
 
 #technology-list {
+  grid-template-columns: 18rem 1fr;
   row-gap: 0.5rem;
   margin-bottom: 1rem;
 }
