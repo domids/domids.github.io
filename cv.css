@@ -212,6 +212,10 @@ ul {
   color: var(--highlight-color)
 }
 
+.education-org {
+  font-weight: var(--strong-font-weight);
+}
+
 .language-name {
   font-weight: 600;
 }
@@ -258,10 +262,6 @@ ul {
 #pageHeader > div > a:link,
 #pageHeader > div > a:visited {
   color: inherit;
-}
-
-#ai-prompt {
-  opacity: 0;
 }
 
 /* Hide the background with the drop shadow, and adjust the padding. */
